@@ -5,14 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anislbb&label=Profile%20views&color=0e75b6&style=flat" alt="anislbb" /> </p>
 
 - 🌱 I’m currently learning **java script**
-
 - 💬 Ask me about **anything comes on your mind**
-
 - 📫 How to reach me **lebbahanis31@gmail.com**
-
 - 📄 Know about my experiences [u can check my github account](u can check my github account)
-
-- ⚡ Fun fact **roses are red violets are blue unexpected '{' on line 32**
+- ⚡ **roses are red violets are blue unexpected '{' on line 32**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
