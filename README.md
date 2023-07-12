@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [u can check my github account](u can check my github account)
 
-- ⚡ Fun fact **im sarcastic lol**
+- ⚡ Fun fact **roses are red violets are blue unexpected '{' on line 32**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
