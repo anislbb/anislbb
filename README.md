@@ -31,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anislbb&show_icons=true&locale=en" alt="anislbb" /></p>
 
+![](https://leetcard.jacoblin.cool/dd8271971?cache=0)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anislbb&" alt="anislbb" /></p>
