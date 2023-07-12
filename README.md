@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **java script**
 - 💬 Ask me about **anything comes on your mind**
 - 📫 How to reach me **lebbahanis31@gmail.com**
-- 📄 Know about my experiences [u can check my github account](u can check my github account)
+- 📄 Know about my experiences **u can check my github account**
 - ⚡ **roses are red violets are blue unexpected '{' on line 32**
 
 <h3 align="left">Connect with me:</h3>
